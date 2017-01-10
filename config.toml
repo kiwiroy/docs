@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "http://docs.kritika.io/"
 languageCode = "en-us"
 title = "Material Docs"
 theme = "hugo-material-docs"

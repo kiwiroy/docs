@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adding-contents on Material Docs</title>
-    <link>https://example.org/adding-content/</link>
+    <link>http://docs.kritika.io/adding-content/</link>
     <description>Recent content in Adding-contents on Material Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
-    <atom:link href="https://example.org/adding-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://docs.kritika.io/adding-content/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Adding content</title>
-      <link>https://example.org/adding-content/</link>
+      <link>http://docs.kritika.io/adding-content/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>https://example.org/adding-content/</guid>
+      <guid>http://docs.kritika.io/adding-content/</guid>
       <description>
 
 &lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
